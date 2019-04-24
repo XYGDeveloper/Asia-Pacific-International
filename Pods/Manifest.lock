@@ -1,0 +1,86 @@
+PODS:
+  - ACAlertController (1.0.0)
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - IQKeyboardManager (6.2.1)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJExtension (3.0.15.1)
+  - pop (1.0.12)
+  - SDCycleScrollView (1.80):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.0.1):
+    - SDWebImage/Core (= 5.0.1)
+  - SDWebImage/Core (5.0.1)
+  - SVProgressHUD (2.2.5)
+  - Toast (4.0.0)
+  - TZImagePickerController (3.2.0)
+  - VerifyCode (3.0.1)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - ACAlertController
+  - AFNetworking
+  - IQKeyboardManager
+  - Masonry
+  - MBProgressHUD
+  - MJExtension (~> 3.0.15.1)
+  - pop (~> 1.0)
+  - SDCycleScrollView (~> 1.64)
+  - SVProgressHUD
+  - Toast
+  - TZImagePickerController
+  - VerifyCode
+  - YYKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ACAlertController
+    - AFNetworking
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - pop
+    - SDCycleScrollView
+    - SDWebImage
+    - SVProgressHUD
+    - Toast
+    - TZImagePickerController
+    - VerifyCode
+    - YYKit
+
+SPEC CHECKSUMS:
+  ACAlertController: 10f0455c3e1691a6197b5cd0d96d6f9a03c82763
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  IQKeyboardManager: 964638372b4a61892cc74fdfa6fd26de8c9464a2
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  SDCycleScrollView: b3c9a5ed840c771c4938978174c7c9d9feefeb96
+  SDWebImage: 27dd2c9ea07a2252f94557c9fbb6105ee94b74c9
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  TZImagePickerController: 7850b158d025065b162a1a963d445040b828abc9
+  VerifyCode: 27f855fd71ebd567521c8d052bd7e8d76a151e4c
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: c0d7c2df93c52ea209d8cef1bab7675507bda05f
+
+COCOAPODS: 1.5.3

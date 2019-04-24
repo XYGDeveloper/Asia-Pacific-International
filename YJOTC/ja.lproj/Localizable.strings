@@ -1,0 +1,627 @@
+"K_Langage_fan" = "中文";
+"K_Langag_en" = "English";
+"K_Langag_th" = "บทความภาษาไทย";
+"K_Langag_ko" = "한국어";
+"K_Langag_japen" = "日本語";
+"MJRefreshHeaderIdleText"="ドロップダウンを更新できます";
+"MJRefreshHeaderPullingText"="即時リフレッシュを解除する";
+"MJRefreshHeaderRefreshingText"="データを更新中...";
+
+"MJRefreshAutoFooterIdleText"="クリックまたはプルアップしてもっと読み込む";
+"MJRefreshAutoFooterRefreshingText"="データをさらに読み込み中...";
+"MJRefreshAutoFooterNoMoreDataText"="すべてすでにロードされています";
+
+"MJRefreshBackFooterIdleText"="アップロードにもっと読み込むことができます";
+"MJRefreshBackFooterPullingText"="もっと負荷を解放してください";
+"MJRefreshBackFooterRefreshingText"="データをさらに読み込み中...";
+"MJRefreshBackFooterNoMoreDataText"="すべてすでにロードされています";
+
+"MJRefreshHeaderLastTimeText"="最終更新日：";
+"MJRefreshHeaderDateTodayText"="今日";
+"MJRefreshHeaderNoneLastDateText"="レコードなし";
+
+"load"="読み込み中...";
+"wailt"="しばらくお待ちください";
+"empty_msg"="データなし";
+"empty_refre"="リフレッシュ試行";
+
+"net_alert_load_title"="ネットワークプロンプト";
+"net_alert_load_message"="アジアパシフィックインターナショナルはネットワークを切断します、ネットワークの設定に進んでください。";
+"net_alert_load_message_cancel"="キャンセル";
+"net_alert_load_message_sure"="OK";
+
+"net_alert_load_page"="ネットワークから切断されているようです。";
+"net_alert_load_refresh"="更新";
+
+"main"="ホーム";
+"news"="情報";
+"hangqing"="見積もり";
+"account"="アカウント";
+"discover"="情報";
+"trade"="取引";
+
+
+
+"Dis_Circle"="Circle";
+"Dis_Chats"="チャット";
+"Dis_Friends"="友達";
+"Dis_GroupChat" ="チャットルーム";
+
+"Dis_PostVideo" ="ビデオを削除";
+"Dis_Search" ="検索";
+"Dis_Postpic" ="ヘアグラフィック";
+"Dis_AddGroupChat" ="グループチャットを開始";
+"Dis_AddFriend" ="友達を追加";
+
+"Dis_AddAttention" ="+フォロー";
+"Dis_AttentionEd"="の後に続きます";
+"Dis_Follow" ="ファン";
+"Dis_SaySomeThing" ="何かを話してください〜";
+"Dis_AllComments" ="すべてのコメント";
+"Dis_Comments" ="コメント";
+"Dis_VistsCount" ="訪問";
+
+"Dis_Mine" ="私の";
+"Dis_Post" ="発行";
+"Dis_Delete" ="削除";
+"Dis_ViewAllComment"="すべてのコメントを表示>>";
+"Dis_PersonalSpace" ="パーソナルスペース";
+"Dis_DeleteThisComment" ="このコメントを削除";
+
+"Dis_NewFriend" ="新しい友達";
+"Dis_Agreed" ="すでに同意しました";
+"Dis_Agree" ="同意する";
+"Dis_DeleteFriendTips"="この友人を削除してもよろしいですか？";
+"Dis_ChooseContacts" ="連絡先を選択";
+"Dis_Done" ="完了";
+"Dis_GroupName" ="グループチャット名";
+"Dis_GroupAvatar" ="グループアバター";
+"Dis_DeleteChatRecord" ="空のチャット履歴";
+"Dis_ViewProfile" ="プロフィールを見る";
+"Dis_DeleteAndLeave" ="削除して終了します";
+"Dis_DissolveTheGroup" ="このグループを解除します";
+"Dis_LeaveGroup"="終了後にグループチャットの他のメンバーに通知されることはなく、このグループチャットメッセージは受け付けられなくなります。";
+
+
+"Confirm" ="OK";
+
+"Cancel" ="キャンセル";
+"Tips_Login" ="最初にログインしてください";
+
+"Dis_PostTips"="この瞬間のアイデア";
+"Dis_PostDistrite" ="パブリッシングダイナミクス";
+"Dis_TakePhoto" ="写真";
+"Dis_ChooseFromAlbum"="電話アルバムから選択";
+"Dis_PostSuccess" ="正常に公開されました";
+"Dis_RecordVideo" ="ビデオを録画";
+
+//ログインして登録する
+"LUserLogin" ="ユーザーログイン";
+"LUserRegister" ="ユーザー登録";
+"LEnterUserName"="ユーザー名を入力してください";
+"LEnterVerificationCode"="確認コードを入力してください";
+"LGetVerificationCode" ="確認コードを取得";
+"LEnterPWD"="ログインパスワードを入力してください";
+"LEnterPWDAgain"="もう一度ログインパスワードを入力してください。";
+"LEnterTransactionPWD"="取引パスワードを入力してください";
+"LEnterTransactionPWDAgain"="もう一度トランザクションパスワードを入力してください。";
+"LEnterEamil"="メールアドレスを入力してください（必須ではありません）";
+"LEnterInvatationCode"="招待コードを入力してください（必須）";
+"LRegister" ="登録";
+"LLogin" ="ログイン";
+"LUserName/email" ="ユーザー名/電話番号/メールボックス";
+"LPassword" ="パスワード";
+"LForgetPWD"="パスワードを忘れましたか？";
+"LEnterPhoneNumber"="あなたの携帯電話番号を入力してください";
+"LResend" ="再送信";
+"LCodeSendSuccess"="確認コードの送信に成功しました";
+"LRegisterSuccess" ="正常に登録されました";
+"LLoginSuccess" ="ログイン成功";
+"LPayPWDNotSame"=" 2回入力した支払いパスワードは、意味ではありません";
+"LLoginPWDNotSame"=" 2回入力したログインパスワードは、意味ではありません";
+"LPWDLengthLessThan6"="パスワードは6桁以上の長さにする必要があります";
+"LAccoutLocked"="アカウントはロックされています、ログインしていません";
+
+"LUserNameError"="ユーザー名またはパスワードが正しくありません。";
+"LLoginFail" ="ログインに失敗しました";
+"LEmailError"="メールボックスの形式が正しくありません";
+"LUserNameExist"="英語名はすでに存在します";
+"LPhoneError"="電話番号の形式が正しくありません";
+"LCodeError"="電話確認コードが正しくありません";
+"LPhoneExist"="携帯電話番号は既に存在します";
+"LServersIsBusy"="サーバーがビジー状態です。後でもう一度やり直してください。";
+
+//友達を探す
+"EFindFriend"="友達を探す";
+"EUserName" ="ユーザー名を入力";
+"ESearchResult" ="検索結果";
+"EFriendAdded" ="追加";
+"EAddFriend" ="+追加";
+"ESayHello" ="妳好！";
+"EFriendRequestSendSuccess"="フレンドアプリケーションは正常に送信されました";
+"EFriendRequestSendFail"="フレンドアプリケーションは送信に失敗しました";
+"ECantFindTheUser"="ユーザーが見つかりませんでした";
+"EFindYourself" ="自分を探す";
+
+"ENotJoinGroup"="はまだグループに参加していません。";
+"EDeleteMember" ="メンバーを削除";
+
+"EWelcomeToGroupChat"="グループチャットへようこそ〜";
+"EToDeleteMember"="選択したメンバーを削除してもよろしいですか？";
+"EChatInfo" ="チャット情報";
+"EMyAlbum" ="マイアルバム";
+"ENoFriendapplicationRecord" ="友達申請レコードがありません";
+"EPhoneNumber" ="携帯電話番号";
+"EReceiveRequest"="友達リクエストを受信します！";
+
+"EInputNewMessage"="新しいメッセージを入力してください";
+
+
+"Tip_LoginAtOtherDevice"="あなたのアカウントは他の場所でログインしています。もう一度ログインしてください！";
+"Tip_YouHaveNewMessage"="新しいメッセージがあります。表示するにはクリックしてください。";
+
+
+"T_MomentAgo" ="just";
+"T_MinsAgo" ="分前";
+"T_HoursAgo" ="時間前";
+"T_DayAgo" ="日前";
+"T_WeeksAgo" ="週前";
+
+
+"R_AgreeTip"="登録は、APDE登録契約と一致していると見なされます";
+"C_NoMoreThan140"="最大140文字を入力してください";
+"C_SearchHistory" ="履歴検索";
+"C_Dynamic" ="動的";
+"C_NoSuchCOntent"="関連するコンテンツが見つかりません";
+"C_reply" ="返信";
+"C_NoDynamic" ="動的なし";
+"C_Tip" ="暖かいヒント";
+"C_TipDetail"="リソース情報を削除します。削除後に復元されることはありません。";
+"C_NoDynamic" ="動的なし";
+"C_Tip" ="暖かいヒント";
+"C_TipDetail"="リソース情報を削除します。削除後に復元されることはありません。";
+"C_DeleteSuccess" ="削除に成功しました";
+"E_LocationTitle" ="位置情報";
+"E_LocationSend" ="送信";
+
+"R_PullDown"="ドロップダウンを更新できます";
+"R_Loading" ="データ更新";
+"R_Release" ="即時リフレッシュ解除";
+"R_NoMoreData" ="データなし";
+
+"K_Scan" ="ほうき掃引";
+
+
+
+
+"K_ScanTips"="箱にQRコードを入れると自動的にスキャンされます。";
+"k_Attention" ="フォロー";
+"R_nationality" ="国籍";
+"R_PhoneRegister" ="モバイル登録";
+"R_EmailRegister" ="メール登録";
+"R_NOCount?"="アカウントがありませんか？登録してください。";
+"R_ChooseNa"="国籍を選択してください";
+"R_EnterEmail"="メールアドレスを入力してください";
+"R_HaveCount?"="すでにアカウントをお持ちですか？ログインしてください。";
+"R_EMailOrPhone" ="メール番号または携帯電話番号";
+"R_NOCount?"="アカウントがありませんか？登録してください。";
+"R_ChangeCoinCircle"="通貨サークルを切り替えてください";
+"R_Message" ="情報";
+"R_Popularity" ="人気度";
+"R_All" ="すべて";
+"R_HotCoinCircle" ="トップ通貨サークル";
+"R_SWitch" ="スイッチ";
+"R_China" ="中国";
+"R_NoNetWork" ="ネットワーク接続に失敗しました";
+"R_ConnectFail"="要求が失敗しました。後でもう一度やり直してください。";
+"k_ConfirmLoginout"="ログアウトしてもよろしいですか？";
+"k_Retry" ="再試行";
+"k_NewVersion"="新しいバージョンが見つかりました。アップグレードしてください。";
+
+"k_PicSaved"="画像は正常に保存されました。";
+"k_PicSaveFail"="画像の保存に失敗しました";
+"k_PleaseEnerInviiteCode"="招待コードを入力してください";
+"k_PayLoginPWDSame"="ログインパスワードとトランザクションパスワードはサンプリングできません";
+"k_meViewcontroler_title" ="ユーザーセンター";
+"k_meViewcontroler_s1_1" ="基本情報";
+
+"k_meViewcontroler_s1_2" ="私の資産";
+
+"k_meViewcontroler_s1_3" ="財務ログ";
+
+"k_meViewcontroler_s1_4" ="セキュリティ設定";
+
+"k_meViewcontroler_s1_5" ="マイマイニング";
+
+"k_meViewcontroler_s1_6" ="私の配当";
+
+"k_meViewcontroler_s1_7"="私のおすすめ";
+
+"k_meViewcontroler_s2_1" ="本名の認証";
+
+"k_meViewcontroler_s2_2" ="C2Cトランザクション";
+
+"k_meViewcontroler_s2_3" ="私の招待状";
+
+"k_meViewcontroler_s2_4" ="ヘルプセンター";
+"k_meViewcontroler_s2_5" ="会社概要";
+
+"k_meViewcontroler_s2_6"="お問い合わせください。";
+
+"k_meViewcontroler_not_set" ="まだ設定されていません";
+
+"k_meViewcontroler_not_carid" ="アイデンティティー";
+
+"k_meViewcontroler_s2_7"=" QRコードのプロモーション";
+"k_meViewcontroler_loginout"="ログアウトしてもよろしいですか？";
+"k_meViewcontroler_loginout_sure" ="OK";
+"k_meViewcontroler_loginout_cancel" ="キャンセル";
+
+"k_meViewcontroler_loginout_set" ="まだ設定されていません";
+
+"k_meViewcontroler_loginAndLoginOut" ="ログイン|登録";
+"k_meViewcontroler_laccountDes" ="アカウント";
+"k_meViewcontroler_nameDes" ="名前";
+"k_userinfoViewcontroler_title" ="ユーザー情報";
+
+"k_meViewcontroler_name" ="名前：";
+
+"k_userinfoViewcontroler_email"=" Eメール：";
+
+"k_userinfoViewcontroler_phone"="携帯電話番号：";
+
+"k_userinfoViewcontroler_type"="ドキュメントタイプ：";
+
+"k_userinfoViewcontroler_number"="ドキュメント番号：";
+
+"k_userinfoViewcontroler_time"="認証時間：";
+"k_IndexViewController_f" ="繁體";
+"k_IndexViewController_e" ="英";
+"k_IndexViewController_lorr" ="ログイン/登録";
+"k_IndexViewController_s2" ="アップサイジングリスト（AT）";
+"k_IndexViewController_s3" ="初心者ガイド";
+"k_IndexViewController_top_label"="今日分配される収入の合計分配";
+"k_IndexViewController_top_label_1"="今日の100万TTFあたりの総収入";
+
+"k_QuotationListViewControlControl_top_label_1" ="メインエリア";
+"k_QuotationListViewController_top_label_1"="メインエリア";
+"k_MyinviteViewController_top_label_0"="招待状のQRコード";
+
+"k_MyinviteViewController_top_label_1"="スキャンコードのダウンロードAsia Pacific International APP";
+
+"k_MyinviteViewController_top_label_2"="あなたの招待コード";
+
+"k_MyinviteViewController_top_label_3"="ダウンロードリンクへジャンプ";
+
+"k_MyrecommendViewController_top_label_00" ="人数";
+"k_MyrecommendViewController_top_label_01"=" AT番号：";
+
+
+"k_MyrecommendViewController_top_label_title" ="私のおすすめ";
+"k_MyrecommendViewController_top_label_1"="私のおすすめ：";
+"k_MyrecommendViewController_top_label_2" ="日付";
+"k_MyrecommendViewController_top_label_3" ="携帯電話番号またはメールボックス";
+"k_MyrecommendViewController_top_label_4" ="メンバーエリア（A / B）";
+
+"k_MyrecommendViewController_top_label_5" ="メンバー";
+
+//
+"k_MybounsViewController_title" ="私の配当";
+"k_MybounsViewController_top_label_1"="累積配当金：";
+"k_MybounsViewController_top_label_2" ="発売日";
+"k_MybounsViewController_top_label_3" ="発行タイプ";
+"k_MybounsViewController_top_label_4"="配当数";
+"k_MybounsViewController_top_label_s" ="開始時間";
+"k_MybounsViewController_top_label_e" ="終了時間";
+"k_MybounsViewController_top_label_q" ="クエリ";
+
+//
+"k_MymineViewController_title" ="マイマイニング";
+"k_MymineViewController_top_label_1"="鉱山の累計数：";
+"k_MymineViewController_top_label_2" ="発売日";
+"k_MymineViewController_top_label_3" ="発行タイプ";
+"k_MymineViewController_top_label_4"="鉱山数";
+"k_MymineViewController_top_label_s" ="開始時刻▼";
+"k_MymineViewController_top_label_e" ="終了時間▼";
+"k_MymineViewController_top_label_q" ="クエリ";
+
+"k_MymineViewController_top_label_ss"="開始時間を選択してください";
+
+"k_MymineViewController_top_label_ee"="終了時間を選択してください";
+
+"k_MymineViewController_top_label_fq" ="イニシエータ";
+
+"k_MymineViewController_top_label_hh" ="パートナー";
+
+"k_MymineViewController_top_label_hyjt" ="メンバー静的";
+
+"k_MymineViewController_top_label_hyfx" ="メンバーシップの共有";
+
+"k_MymineViewController_top_label_fxwk" ="マイニングの共有";
+
+"k_MymineViewController_top_label_jtwk" ="静的マイニング";
+
+"k_MymineViewController_top_label_tcdl"="ログインからサインアウトしてください";
+//K-Line
+"k_line_max" ="高さ";
+"k_line_min" ="低い";
+"k_line_amout" ="24時間の金額";
+"k_line_minh" ="時分割";
+"k_line_minutes15" ="15分";
+"k_line_hours1" ="1時間";
+"k_line_hours4" ="4時間";
+"k_line_days" ="1日";
+"k_line_More" ="その他";
+"k_line_index" ="指標";
+
+"k_line_1m" ="1ポ";
+"k_line_5m" ="5ポ";
+"k_line_30m" ="5ポ";
+"k_line_1w" ="1週間";
+"k_line_1mon" ="1ヶ月";
+
+
+//アカウント----私の資産
+// k_meViewcontroler_s1_2
+"k_MyassetViewController_tableview_header_title" ="取引アカウント";
+"k_MyassetViewController_tableview_header_subtitle"="純資産換算（AT）";
+"k_MyassetViewController_tableview_header_hideButton"="通貨が0のアセットを非表示にしてください。";
+"k_MyassetViewController_tableview_list_cell_middle_label" ="合計";
+"k_HBTradeJLViewController_count" ="数";
+"Assert_detail_100"=" 100の整数倍を入力してください。";
+"Assert_detail_enteruserID"="転送IDを入力してください。";
+"Assert_detail_changeintoid" ="IDへの転送";
+"Assert_detail_name" ="ユーザー名";
+"k_MyassetViewController_tableview_list_cell_right_label" ="フリーズ";
+"k_MyassetViewController_tableview_list_cell_right_label1" ="ロック";
+"Assert_detail_sureexchange"="ロールアウトしても問題ありません";
+"Assert_detail_to" ="を与える";
+"Assert_detail_noidentify"="このユーザーは本名認証を持っていません。";
+"Assert_detail_charge" ="硬貨の充填";
+"Assert_detail_tibi" ="提金";
+"Assert_detail_exchangedetail" ="インターチェンジの詳細";
+
+//アカウント---私の資産の詳細
+"k_MyassetDetailViewController_tableview_header_middle" ="利用可能";
+"k_MyassetDetailViewController_tableview_header_right" ="フリーズ";
+"k_MyassetDetailViewController_tableview_header_left_Button" ="Exchange AT";
+"k_MyassetDetailViewController_tableview_header_right_Button" ="Exchangeレコード";
+"k_MyassetDetailViewController_tableview_header_label" ="現在のデリゲート";
+"k_MyassetDetailViewController_tableview_cell_label" ="委任タイプ";
+"k_MyassetDetailViewController_tableview_cell_label0" ="信頼価格";
+"k_MyassetDetailViewController_tableview_cell_label1" ="購入";
+"k_MyassetDetailViewController_tableview_cell_label2"="ダイヤルイン";
+"k_MyassetDetailViewController_tableview_cell_label3" ="出力";
+"Assert_detail_exchange" ="インターチェンジ";
+
+"k_MyassetDetailViewController_alert_lin1" ="数";
+"k_MyassetDetailViewController_alert_lin2" ="為替レート";
+"k_MyassetDetailViewController_alert_lin3"="このAT額の交換";
+"k_MyassetDetailViewController_alert_lin3_p"="数量を入力してください";
+"k_MyassetDetailViewController_alert_lin4"="このAT消費との交換";
+"k_MyassetDetailViewController_alert_lin5" ="トランザクションパスワード";
+"k_MyassetDetailViewController_alert_lin5_p"="トランザクションパスワードを入力してください";
+"k_MyassetDetailViewController_alert_left_btn" ="送信";
+"k_MyassetDetailViewController_alert_middle_btn" ="リセット";
+"k_MyassetDetailViewController_alert_right_btn" ="キャンセル";
+"k_MyassetDetailViewController_wt_price" ="信託価格";
+"k_MyassetDetailViewController_wt_count"="代理人の数";
+
+//アカウント---私の資産の詳細
+"k_ExchangeRecordViewController_title" ="詳細";
+"k_ExchangeRecordViewController_topbar_0" ="すべて";
+"k_ExchangeRecordViewController_topbar_1" ="請求通貨";
+"k_ExchangeRecordViewController_topbar_2" ="チック";
+"k_ExchangeRecordViewController_topbar_3"="レビュー中";
+"k_ExchangeRecordViewController_topbar_4" ="Exchange";
+//アカウント---振替
+"k_mybcbViewController_cbutton" ="ウォレットアドレスをコピー";
+"k_mybcbViewController_zbbutton" ="ブック関数";
+"k_mybcbViewController_zbdesbutton"="すべてのトランザクションがここに記録されます。";
+"k_mybcbViewController_zcopy" ="コピー成功";
+
+//アカウント---振替
+
+//アカウント -  bcb
+"k_bcbViewController_sellin" ="購入";
+"k_bcbViewController_sellout" ="売り";
+"k_bcbViewController_dd" ="完了";
+"k_c2c_buyp" ="購入価格（¥）";
+"k_c2c_sellp" ="販売価格（¥）";
+"k_c2c_buycount" ="購入金額";
+"k_c2c_sellcount" ="販売金額";
+"k_c2c_needt" ="必須";
+"k_c2c_acquire" ="利用可能";
+"k_c2c_now_startbuy" ="今すぐ購入";
+"k_c2c_now_startsell" ="すぐに売る";
+"k_c2c_now_trade" ="取引";
+"k_c2c_now_trade01" ="ビジネス保護";
+"k_c2c_now_trade02" ="トランザクション数";
+"k_c2c_now_trade03" ="タイプ";
+"k_c2c_now_trade04" ="ステータス";
+
+"k_c2c_now_default"="デフォルトとして設定";
+
+"k_c2c_now_sel_pay"="支払い方法/領収方法を選択してください。";
+"k_c2c_now_sel_add"="お支払い方法を追加してください。";
+
+"k_c2c_input_equal"="シルバーカード番号と確認用カード番号が入力されていません";
+"k_in_c2c_tips"="最初に本名認証を行ってください。";
+
+"k_bcbViewController_des" ="1.購入者と販売者はすべて現地での検査と認証を受け、100万ドルのATデポジットを提供します。資産を交換するたびに、事業の資産が凍結されます。 N2。ディーラー保護は実名認証によるビジネス保護であり、保証金を提供し、交換を保証することができます; \ n3。ビジネス保護を申請する必要がある場合は、aozhou168 @ outlook.comに電子メールを送信してください。銀行カード、Alipay、またはWeChatによる送金; \ n5。処理時間9：00〜21：00の未処理時間注文は翌日の9:00に処理され、注文の受領後24時間以内に支払いが完了します。 \ n6。1日に最大10件の売り注文を開始できます。";
+
+//アカウント - 私達について
+"k_onusViewController_title"="会社概要";
+"k_onusViewController_name" ="アジアパシフィックインターナショナル";
+"k_onusViewController_title_detail_title" ="アジア太平洋国際";
+"k_onusViewController_title_detail_des" ="アジア太平洋国際デジタル取引プラットフォームは、米国ニューヨーク州に本社を置き、将来的には東南アジア、ヨーロッパ、香港、北米にオフィスを開設し、国際経済と貿易の統合のプロセスにおいて非常に重要な役割を果たします。特に大西洋の両側、環太平洋経済圏の主要な国や地域、そして新興国であるブロックチェーン業界向けのスーパーデジタルアセットサービスプラットフォームアジア太平洋地域の国際デジタル取引プラットフォームは国際的に安全で信頼できるものです。デジタル資産取引プラットフォームは、多くの投資会社から合計1000万米ドルの設備投資を得ており、アジア太平洋地域のデジタルデジタル取引プラットフォームは、厳密なリスク管理管理を行い、安定的に運営されています。そして信頼できるアプリケーション情報を公開し、主流のデジタル通貨に対してより多くのデジタル資産取引サービスを提供する。";
+//アカウント - お問い合わせ
+"k_contactViewController_title" ="お問い合わせください";
+//アカウント - 本名認証
+"k_AuthViewController_title" ="本名の認証";
+"k_AuthViewController_name" ="名前";
+"k_AuthViewController_placehoder"="あなたの名前を入力してください";
+"k_AuthViewController_pc1" ="ドキュメントの正面図";
+"k_AuthViewController_pc2"="ドキュメントバックフォト";
+"k_AuthViewController_pc3"="携帯ID写真";
+"k_AuthViewController_comit"="監査を送信してください";
+//アカウント - セキュリティ設定
+"k_YTsetViewController_s1_title" ="セキュリティ設定";
+"k_YTsetViewController_s1" ="トランザクションパスワード";
+"k_YTsetViewController_s1_det"="広告を出すとき、広告資産を引き換えるとき、およびセキュリティ設定を変更するときに入力してください。";
+"k_YTsetViewController_s2" ="メールボックスをバインド";
+"k_YTsetViewController_s2_det"="ログイン、コインの取り出し、セキュリティ設定の変更を入力してください。";
+"k_YTsetViewController_s3"="電話をバインドしてください";
+"k_YTsetViewController_s3_det"="確認SMSを受信するためのパスワードの受信、セキュリティ設定の変更、";
+"k_YTsetViewController_s4" ="ログインパスワード";
+"k_YTsetViewController_s4_det"="アカウントにログインしたときに入力してください";
+
+"k_YTsetViewController_bt1" ="変更";
+"k_YTsetViewController_bt2" ="バインディング";
+"k_YTsetViewController_bt3" ="バインディング";
+"k_YTsetViewController_bt4" ="変更";
+
+//アカウント - セキュリティ設定 - パスワードの変更
+"k_ModifysetViewController_title"="トランザクションパスワードを変更してください";
+"k_ModifysetViewController_t1"="元の取引パスワードを入力してください。";
+"k_ModifysetViewController_t2"="新しいトランザクションパスワードを入力してください";
+"k_ModifysetViewController_t3"="新しい取引パスワードを確認してください";
+"k_ModifysetViewController_b1" ="変更を保存";
+
+//アカウント - セキュリティの設定 - メールボックスを変更する
+"k_BindsetViewController_title" ="メールボックスをバインド";
+"k_BindsetViewController_t1"="メールアドレスを入力してください。";
+"k_BindsetViewController_t2"="確認コードを入力してください。";
+"k_BindsetViewController_t3" ="メールボックスをバインド";
+"k_BindsetViewController_t4" ="完了";
+"k_BindsetViewController_b1" ="はい、そうです";
+//アカウント - セキュリティ設定 - ログインパスワードの変更
+"k_ModifyLoginsetViewController_title"="ログインパスワードを変更してください";
+"k_ModifyLoginsetViewController_t1"="オリジナルのログインパスワードを入力してください";
+"k_ModifyLoginViewController_t2"="新しいログインパスワードを入力してください";
+"k_ModifyLoginViewController_t3"="新しいログインパスワードを確認してください";
+"k_ModifyLoginViewController_b1" ="変更を保存";
+
+//アカウント - セキュリティ設定 - 接続先の電話番号を変更する
+"k_BindphonesetViewController_title"="電話をバインドしてください";
+"k_BindphonesetViewController_t1"="電話番号を入力してください。";
+"k_BindphoneViewController_t2"="確認コードを入力してください。";
+"k_BindphoneViewController_t3"="電話をバインドしてください";
+"k_BindphoneViewController_b0"="確認コードを送信";
+"k_BindphoneViewController_t4" ="完了";
+"k_BindphoneViewController_b1" ="はい、そうです";
+
+"k_Bined" ="バインド";
+
+//アカウント---財務ログ
+"k_FinsetViewController_title" ="財務ログ";
+"k_FinsetViewController_type" ="タイプ";
+"k_FinsetViewController_type1" ="説明";
+"k_FinsetViewController_type2" ="資金を変更";
+"k_FinsetViewController_type3" ="経費/収入";
+"k_FinsetViewController_type4" ="ポイント名";
+"k_FinsetViewController_type5" ="完了時間";
+
+// C2C-
+"k_PAYViewController_typec" ="銀行カード";
+"k_PAYViewController_typea" ="Alipay";
+"k_PAYViewController_typew" ="WeChat";
+"k_PAYViewController_typed" ="";
+//ポップビュー
+"k_popview_1" ="支払い方法";
+"k_popview_2"="支払い方法を追加してください";
+"k_popview_3" ="最近の償還記録";
+"k_popview_4" ="取扱説明書";
+"k_popview_list_cat4"="リチャージタイプ：CNY";
+"k_popview_list_cat5"="サブブランチ：お知らせ";
+"k_popview_list_cat6" ="銀行カードを削除";
+// WeChat銀行カードを追加
+"k_popview_list_countname" ="アカウント名";
+"k_popview_list_placehoder"="ヒント：自分の名前でアカウントを追加するだけです。";
+"k_popview_list_qr" ="受け取りQRコード";
+"k_popview_list_sureto_add" ="OK追加";
+"k_popview_list_sureto_tips"="アカウント名を入力してください";
+"k_popview_list_sureto_commit"=" WeChatコレクションコードをアップロードしてください。";
+//添加银行卡
+"k_bank_popview_list_countname" ="アカウント名";
+"k_bank_popview_list_countname_place"="ヒント：あなたの名の下にのみ銀行カードを追加してください。";
+"k_bank_popview_list_countname_kaihu" ="銀行口座";
+"k_bank_popview_list_countname_kaihu_place"=" RMCの引き出しは、リスト内の銀行のみをサポートしています。";
+"k_bank_popview_list_szd" ="ロケーション";
+"k_bank_popview_list_khzh"="ブランチを開";
+"k_bank_popview_list_yhk" ="銀行カード";
+"k_bank_popview_list_countname_repeat"="カード番号を繰り返してください";
+"k_bank_add_01"="アカウント名を入力してください";
+"k_bank_add_02"="口座銀行を選択してください";
+"k_bank_add_03"="住所を選択してください";
+"k_bank_add_04"="マーチャントブランチに記入してください";
+"k_bank_add_05"="銀行カード番号を入力してください";
+"k_bank_add_06"="確認用の銀行カード番号を入力してください。";
+
+//トランザクション
+"k_TradeViewController_title" ="トランザクション";
+"k_TradeViewController_seg01" ="購入";
+"k_TradeViewController_seg02" ="売り";
+"k_TradeViewController_seg03" ="撤退";
+"k_TradeViewController_seg04" ="履歴";
+"k_YTBuyAndSellDetailTableViewController_total_prouct"="合計：";
+"k_YTBuyAndSellDetailTableViewController_integral_amount"="使用可能：";
+"k_YTBuyAndSellDetailTableViewController_integral_freezing"="凍結量：";
+"k_YTBuyAndSellDetailTableViewController_latest_deal" ="最新の取引";
+
+//エラーメッセージ
+"k_YTBuyAndSellDetailTableViewController_buyPriceCannotBeEmpty"="購入価格を空にすることはできません";
+"k_YTBuyAndSellDetailTableViewController_sellPriceCannotBeEmpty"="販売価格を空にすることはできません";
+"k_YTBuyAndSellDetailTableViewController_TheNumberOfBuyingCannotBeEmpty"="購入数を空にすることはできません";
+"k_YTBuyAndSellDetailTableViewController_TheNumberOfSellingCannotBeEmpty"="販売数を空にすることはできません";
+"k_YTBuyAndSellDetailTableViewController_TransactionCannotBeEmpty"="トランザクションパスワードを空にすることはできません";
+
+
+
+"sell" ="売り";
+"buy" ="購入";
+"sell_2" ="売り";
+"buy_2" ="購入";
+"Buy_price" ="購入価格";
+"Sell_price" ="売値";
+"Price" ="価格";
+"Entrust" ="委任金額";
+"Number" ="数量";
+"Trade_code" ="取引パスワード";
+"Buy_immediately" ="今すぐ購入";
+"Sell_immediately" ="すぐに売る";
+
+"Time" ="時間";
+"Type" ="タイプ";
+"Trade_price" ="取引価格";
+"Trade_volume" ="ボリューム";
+"Total" ="合計";
+
+"Entrustment_type" ="信頼の種類：";
+"Entrust_price" ="代行価格：";
+"Quantity_entrusted" ="参加者数：";
+"OTC_empty_tips" ="クリックして再試行";
+"OTC_order_norecord" ="レコードなし";
+
+
+"Quotation" ="見積";
+
+"Option" ="オプション";
+
+//通貨情報
+"kcurrentuantity_release_record" ="リリース記録";
+"kcurrentuantity_labl0"="通貨情報：";
+"kcurrentuantity_labl1" ="英語名";
+"kcurrentuantity_labl2" ="発売日";
+"kcurrentuantity_labl3" ="合計金額";
+"kcurrentuantity_labl4" ="ブロック速度";
+"kcurrentuantity_labl5" ="コアアルゴリズム";
+"kcurrentuantity_labl6" ="証明方法";
+"kcurrentuantity_labl7" ="主な機能";
+
+"Assert_detail_releaseSuccess" ="リリース成功";
+"Assert_detail_dealtime" ="トランザクション時間";
+"k_popview_input_branchbank_confirm_orderstatus" ="ステータス";
+"Assert_detail_releaseVolume" ="リリース数";
+
+
